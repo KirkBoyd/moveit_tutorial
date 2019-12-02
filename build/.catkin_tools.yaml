@@ -1,0 +1,6 @@
+devel_space: /home/kirk/ws_moveit/devel
+install: false
+install_space: /home/kirk/ws_moveit/install
+profile: default
+source_space: /home/kirk/ws_moveit/src
+workspace: /home/kirk/ws_moveit
